@@ -5,9 +5,9 @@
 This is the pytorch version, python code of our paper Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8989d3a4-c95f-47d3-9010-2448314dc678" alt="First Image" width="200"/>
-  <img src="https://github.com/user-attachments/assets/92904789-6b56-4130-9ad4-af7fc217d1cb" alt="Second Image" width="200"/>
-  <img src="https://github.com/user-attachments/assets/636bfbc6-473c-4748-861c-a2b5b34ed23b" alt="third Image" width="200"/>
+  <img src="https://github.com/user-attachments/assets/8989d3a4-c95f-47d3-9010-2448314dc678" alt="First Image" width="300"/>
+  <img src="https://github.com/user-attachments/assets/92904789-6b56-4130-9ad4-af7fc217d1cb" alt="Second Image" width="300"/>
+  <img src="https://github.com/user-attachments/assets/636bfbc6-473c-4748-861c-a2b5b34ed23b" alt="third Image" width="300"/>
 </p>
 
 ## Overview
