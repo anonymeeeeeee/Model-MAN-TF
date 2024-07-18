@@ -4,6 +4,8 @@
 
 This is the pytorch version, python code of our paper Geometry-Aware Deep Learning for 3D Skeleton-Based Motion Prediction. 
 
+![eating](https://github.com/user-attachments/assets/37e36971-80d3-4745-9ae7-a51e22ccba7f) | ![sitting](https://github.com/user-attachments/assets/235bbe2c-25dc-48e7-abb9-62cbef75a10e)
+
 ## Overview
 
 In this paper, we propose a novel approach, MAN-TF, which combines Kendall's shape space with Lie group representations and transformers for accurate body movement characterization, with a focus on improving long-term prediction accuracy. 
